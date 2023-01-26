@@ -20,6 +20,7 @@ function App() {
             <Day />
           </Route>
           <Route path="/create_word">
+            <CreateWord />
           </Route>
           <Route path="/create_day">
             <CreateDay/>   
