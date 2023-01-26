@@ -1,0 +1,18 @@
+https://www.youtube.com/watch?v=-1auqB4hvus&list=PLZKTXPmaJk8J_fHAzPLH8CJ_HO_M33e7-&index=5
+
+명령어 11-8:55
+
+react, redux, git, spring
+json-server --watch db.json --port 3001 
+
+json-server --watch ./src/db/data.json --port 3001
+
+https://www.youtube.com/watch?v=G3qglTF-fFI&list=PLZ5oZ2KmQEYjwhSxjB_74PoU6pmFzgVMO
+
+https://www.youtube.com/watch?v=e-CnI8Q5RY4&list=PLZ5oZ2KmQEYjwhSxjB_74PoU6pmFzgVMO&index=6 이어서
+
+https://www.youtube.com/watch?v=frI5CoZe-vE&list=PLZzruF3-_clsWF2aULPsUPomgolJ-idGJ 스프링부트
+
+https://www.youtube.com/watch?v=cM6HWV9IPUo&list=PLrSOSlasEemVoV1Itw8bQCmx4JuqdqmhO 자바 문제 풀이
+
+https://github.com/tychejin1218/board 깃허브 스프링 게시판 목차
