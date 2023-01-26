@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=-1auqB4hvus&list=PLZKTXPmaJk8J_fHAzPLH8CJ_HO_M33e7-&index=5
 
-명령어 11-8:55
+명령어 11-8:55 코딩앙마 코딩애플
 
 react, redux, git, spring
 json-server --watch db.json --port 3001 
